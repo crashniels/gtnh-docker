@@ -1,5 +1,5 @@
 # install java 17+
-FROM eclipse-temurin:17
+FROM eclipse-temurin:21
 
 # packages
 RUN apt update
